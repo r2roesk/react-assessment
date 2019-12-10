@@ -2,7 +2,7 @@ This repository contains a skeleton React application to add, fetch, and display
 
 ## To get started with this assessment: 
 
-1. Fork this repository and then clone it to your local macchine. help -- https://guides.github.com/activities/forking/
+1. Fork this repository and then clone it to your local machine. help -- https://guides.github.com/activities/forking/
 2. Run "npm install" to install all dependecies
 3. Run "npm start" to view application on localhost:3000
 4. Complete the 4 specs listed below
