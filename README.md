@@ -10,7 +10,7 @@ This repository contains a skeleton react application to add, fetch and display 
 
 You have 75 minutes to complete this challenge, so even if you have not yet finish all of the specs below, you still MUST push all of your work back up to your branch to be reviewed.
 
-### DO NOT FORGET TO COMMIT AND PUSH YOUR WORK NO LATER THAN 75 MINUTES AFTER STARTING ASSESSMENT
+#### DO NOT FORGET TO COMMIT AND PUSH YOUR WORK NO LATER THAN 75 MINUTES AFTER STARTING ASSESSMENT
 
 ## Please complete following specs to provide user functionality: 
 
