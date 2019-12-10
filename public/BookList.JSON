@@ -1,0 +1,550 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2019 The New York Times Company.  All Rights Reserved.",
+  "num_results": 13,
+  "results": [
+      {
+          "title": "A COLUMN OF FIRE",
+          "description": "A pair of lovers find themselves on opposite sides of a conflict while Queen Elizabeth fights to maintain her throne.",
+          "contributor": "by Ken Follett",
+          "author": "Ken Follett",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Penguin",
+          "isbns": [
+              {
+                  "isbn10": "052595497X",
+                  "isbn13": "9780525954972"
+              },
+              {
+                  "isbn10": "0735224471",
+                  "isbn13": "9780735224476"
+              },
+              {
+                  "isbn10": "0451477995",
+                  "isbn13": "9780451477996"
+              },
+              {
+                  "isbn10": "0451478002",
+                  "isbn13": "9780451478009"
+              }
+          ],
+          "ranks_history": [
+              {
+                  "primary_isbn10": "0451478002",
+                  "primary_isbn13": "9780451478009",
+                  "rank": 12,
+                  "list_name": "Mass Market Monthly",
+                  "display_name": "Mass Market",
+                  "published_date": "2019-10-13",
+                  "bestsellers_date": "2019-09-28",
+                  "weeks_on_list": 0,
+                  "ranks_last_week": null,
+                  "asterisk": 0,
+                  "dagger": 0
+              },
+              {
+                  "primary_isbn10": "0451477995",
+                  "primary_isbn13": "9780451477996",
+                  "rank": 14,
+                  "list_name": "Trade Fiction Paperback",
+                  "display_name": "Paperback Trade Fiction",
+                  "published_date": "2018-09-09",
+                  "bestsellers_date": "2018-08-25",
+                  "weeks_on_list": 3,
+                  "ranks_last_week": null,
+                  "asterisk": 1,
+                  "dagger": 0
+              },
+              {
+                  "primary_isbn10": "0451477995",
+                  "primary_isbn13": "9780451477996",
+                  "rank": 12,
+                  "list_name": "Trade Fiction Paperback",
+                  "display_name": "Paperback Trade Fiction",
+                  "published_date": "2018-09-02",
+                  "bestsellers_date": "2018-08-18",
+                  "weeks_on_list": 2,
+                  "ranks_last_week": null,
+                  "asterisk": 0,
+                  "dagger": 0
+              },
+              {
+                  "primary_isbn10": "0451477995",
+                  "primary_isbn13": "9780451477996",
+                  "rank": 12,
+                  "list_name": "Trade Fiction Paperback",
+                  "display_name": "Paperback Trade Fiction",
+                  "published_date": "2018-08-26",
+                  "bestsellers_date": "2018-08-11",
+                  "weeks_on_list": 1,
+                  "ranks_last_week": null,
+                  "asterisk": 0,
+                  "dagger": 0
+              },
+              {
+                  "primary_isbn10": "052595497X",
+                  "primary_isbn13": "9780525954972",
+                  "rank": 13,
+                  "list_name": "Hardcover Fiction",
+                  "display_name": "Hardcover Fiction",
+                  "published_date": "2018-01-07",
+                  "bestsellers_date": "2017-12-23",
+                  "weeks_on_list": 15,
+                  "ranks_last_week": null,
+                  "asterisk": 0,
+                  "dagger": 0
+              },
+              {
+                  "primary_isbn10": "052595497X",
+                  "primary_isbn13": "9780525954972",
+                  "rank": 14,
+                  "list_name": "Hardcover Fiction",
+                  "display_name": "Hardcover Fiction",
+                  "published_date": "2017-12-31",
+                  "bestsellers_date": "2017-12-16",
+                  "weeks_on_list": 14,
+                  "ranks_last_week": null,
+                  "asterisk": 0,
+                  "dagger": 0
+              },
+              {
+                  "primary_isbn10": "052595497X",
+                  "primary_isbn13": "9780525954972",
+                  "rank": 14,
+                  "list_name": "Hardcover Fiction",
+                  "display_name": "Hardcover Fiction",
+                  "published_date": "2017-12-24",
+                  "bestsellers_date": "2017-12-09",
+                  "weeks_on_list": 13,
+                  "ranks_last_week": null,
+                  "asterisk": 0,
+                  "dagger": 0
+              },
+              {
+                  "primary_isbn10": "052595497X",
+                  "primary_isbn13": "9780525954972",
+                  "rank": 14,
+                  "list_name": "Hardcover Fiction",
+                  "display_name": "Hardcover Fiction",
+                  "published_date": "2017-12-17",
+                  "bestsellers_date": "2017-12-02",
+                  "weeks_on_list": 12,
+                  "ranks_last_week": null,
+                  "asterisk": 1,
+                  "dagger": 0
+              },
+              {
+                  "primary_isbn10": "052595497X",
+                  "primary_isbn13": "9780525954972",
+                  "rank": 13,
+                  "list_name": "Hardcover Fiction",
+                  "display_name": "Hardcover Fiction",
+                  "published_date": "2017-12-10",
+                  "bestsellers_date": "2017-11-25",
+                  "weeks_on_list": 11,
+                  "ranks_last_week": null,
+                  "asterisk": 0,
+                  "dagger": 0
+              },
+              {
+                  "primary_isbn10": "052595497X",
+                  "primary_isbn13": "9780525954972",
+                  "rank": 14,
+                  "list_name": "Combined Print and E-Book Fiction",
+                  "display_name": "Combined Print & E-Book Fiction",
+                  "published_date": "2017-12-10",
+                  "bestsellers_date": "2017-11-25",
+                  "weeks_on_list": 9,
+                  "ranks_last_week": null,
+                  "asterisk": 0,
+                  "dagger": 0
+              },
+              {
+                  "primary_isbn10": "052595497X",
+                  "primary_isbn13": "9780525954972",
+                  "rank": 14,
+                  "list_name": "Hardcover Fiction",
+                  "display_name": "Hardcover Fiction",
+                  "published_date": "2017-12-03",
+                  "bestsellers_date": "2017-11-18",
+                  "weeks_on_list": 10,
+                  "ranks_last_week": null,
+                  "asterisk": 0,
+                  "dagger": 0
+              },
+              {
+                  "primary_isbn10": "052595497X",
+                  "primary_isbn13": "9780525954972",
+                  "rank": 13,
+                  "list_name": "Hardcover Fiction",
+                  "display_name": "Hardcover Fiction",
+                  "published_date": "2017-11-26",
+                  "bestsellers_date": "2017-11-11",
+                  "weeks_on_list": 9,
+                  "ranks_last_week": null,
+                  "asterisk": 0,
+                  "dagger": 0
+              },
+              {
+                  "primary_isbn10": "052595497X",
+                  "primary_isbn13": "9780525954972",
+                  "rank": 8,
+                  "list_name": "Hardcover Fiction",
+                  "display_name": "Hardcover Fiction",
+                  "published_date": "2017-11-19",
+                  "bestsellers_date": "2017-11-04",
+                  "weeks_on_list": 8,
+                  "ranks_last_week": null,
+                  "asterisk": 0,
+                  "dagger": 0
+              },
+              {
+                  "primary_isbn10": "052595497X",
+                  "primary_isbn13": "9780525954972",
+                  "rank": 13,
+                  "list_name": "Combined Print and E-Book Fiction",
+                  "display_name": "Combined Print & E-Book Fiction",
+                  "published_date": "2017-11-19",
+                  "bestsellers_date": "2017-11-04",
+                  "weeks_on_list": 8,
+                  "ranks_last_week": null,
+                  "asterisk": 0,
+                  "dagger": 0
+              },
+              {
+                  "primary_isbn10": "0735224471",
+                  "primary_isbn13": "9780735224476",
+                  "rank": 9,
+                  "list_name": "Combined Print and E-Book Fiction",
+                  "display_name": "Combined Print & E-Book Fiction",
+                  "published_date": "2017-11-12",
+                  "bestsellers_date": "2017-10-28",
+                  "weeks_on_list": 7,
+                  "ranks_last_week": null,
+                  "asterisk": 0,
+                  "dagger": 0
+              },
+              {
+                  "primary_isbn10": "052595497X",
+                  "primary_isbn13": "9780525954972",
+                  "rank": 6,
+                  "list_name": "Hardcover Fiction",
+                  "display_name": "Hardcover Fiction",
+                  "published_date": "2017-11-12",
+                  "bestsellers_date": "2017-10-28",
+                  "weeks_on_list": 7,
+                  "ranks_last_week": null,
+                  "asterisk": 0,
+                  "dagger": 0
+              },
+              {
+                  "primary_isbn10": "052595497X",
+                  "primary_isbn13": "9780525954972",
+                  "rank": 6,
+                  "list_name": "Hardcover Fiction",
+                  "display_name": "Hardcover Fiction",
+                  "published_date": "2017-11-05",
+                  "bestsellers_date": "2017-10-21",
+                  "weeks_on_list": 6,
+                  "ranks_last_week": null,
+                  "asterisk": 0,
+                  "dagger": 0
+              },
+              {
+                  "primary_isbn10": "0735224471",
+                  "primary_isbn13": "9780735224476",
+                  "rank": 10,
+                  "list_name": "Combined Print and E-Book Fiction",
+                  "display_name": "Combined Print & E-Book Fiction",
+                  "published_date": "2017-11-05",
+                  "bestsellers_date": "2017-10-21",
+                  "weeks_on_list": 6,
+                  "ranks_last_week": null,
+                  "asterisk": 0,
+                  "dagger": 0
+              },
+              {
+                  "primary_isbn10": "052595497X",
+                  "primary_isbn13": "9780525954972",
+                  "rank": 4,
+                  "list_name": "Hardcover Fiction",
+                  "display_name": "Hardcover Fiction",
+                  "published_date": "2017-10-29",
+                  "bestsellers_date": "2017-10-14",
+                  "weeks_on_list": 5,
+                  "ranks_last_week": null,
+                  "asterisk": 0,
+                  "dagger": 0
+              }
+          ],
+          "reviews": [
+              {
+                  "book_review_link": "",
+                  "first_chapter_link": "",
+                  "sunday_review_link": "",
+                  "article_chapter_link": ""
+              }
+          ]
+      },
+      {
+          "title": "A Dangerous Fortune",
+          "description": null,
+          "contributor": null,
+          "author": "Ken Follett",
+          "contributor_note": null,
+          "price": 0,
+          "age_group": null,
+          "publisher": null,
+          "isbns": [
+              {
+                  "isbn10": "0440217490",
+                  "isbn13": "9780440217497"
+              }
+          ],
+          "ranks_history": [],
+          "reviews": [
+              {
+                  "book_review_link": "",
+                  "first_chapter_link": null,
+                  "sunday_review_link": "https://www.nytimes.com/1994/01/09/books/the-perils-of-pilaster.html",
+                  "article_chapter_link": null
+              }
+          ]
+      },
+      {
+          "title": "Code to Zero",
+          "description": null,
+          "contributor": null,
+          "author": "Ken Follett",
+          "contributor_note": null,
+          "price": 0,
+          "age_group": null,
+          "publisher": null,
+          "isbns": [
+              {
+                  "isbn10": "0451216725",
+                  "isbn13": "9780451216724"
+              }
+          ],
+          "ranks_history": [],
+          "reviews": [
+              {
+                  "book_review_link": "",
+                  "first_chapter_link": null,
+                  "sunday_review_link": "https://www.nytimes.com/2001/01/14/books/occupational-hazards.html",
+                  "article_chapter_link": null
+              }
+          ]
+      },
+      {
+          "title": "EDGE OF ETERNITY",
+          "description": "In Book 3 of the Century trilogy, five interconnected families face the defining moments of America from the 1960s to the ’80s.",
+          "contributor": "by Ken Follett",
+          "author": "Ken Follett",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Penguin",
+          "isbns": [
+              {
+                  "isbn10": "0525953094",
+                  "isbn13": "9780525953098"
+              },
+              {
+                  "isbn10": "0698160576",
+                  "isbn13": "9780698160576"
+              },
+              {
+                  "isbn10": "1410475468",
+                  "isbn13": "9781410475466"
+              },
+              {
+                  "isbn10": "0451474015",
+                  "isbn13": "9780451474018"
+              },
+              {
+                  "isbn10": "0451474023",
+                  "isbn13": "9780451474025"
+              }
+          ],
+          "ranks_history": [],
+          "reviews": [
+              {
+                  "book_review_link": "",
+                  "first_chapter_link": "",
+                  "sunday_review_link": "",
+                  "article_chapter_link": ""
+              }
+          ]
+      },
+      {
+          "title": "EYE OF THE NEEDLE",
+          "description": "The fate of a German aristocrat and spy known as the Needle relies on the loyalty of an Englishwoman.",
+          "contributor": "by Ken Follett",
+          "author": "Ken Follett",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Penguin",
+          "isbns": [],
+          "ranks_history": [
+              {
+                  "primary_isbn10": "None",
+                  "primary_isbn13": "9781101990247",
+                  "rank": 9,
+                  "list_name": "Combined Print and E-Book Fiction",
+                  "display_name": "Combined Print & E-Book Fiction",
+                  "published_date": "2019-02-10",
+                  "bestsellers_date": "2019-01-26",
+                  "weeks_on_list": 1,
+                  "ranks_last_week": null,
+                  "asterisk": 0,
+                  "dagger": 0
+              }
+          ],
+          "reviews": [
+              {
+                  "book_review_link": "",
+                  "first_chapter_link": "",
+                  "sunday_review_link": "",
+                  "article_chapter_link": ""
+              }
+          ]
+      },
+      {
+          "title": "FALL OF GIANTS",
+          "description": "Five interrelated families from five countries are caught in the upheavals of World War I and the Russian Revolution.",
+          "contributor": "by Ken Follett",
+          "author": "Ken Follett",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Dutton",
+          "isbns": [
+              {
+                  "isbn10": "0525951652",
+                  "isbn13": "9780525951650"
+              }
+          ],
+          "ranks_history": [],
+          "reviews": [
+              {
+                  "book_review_link": "https://www.nytimes.com/2010/09/24/books/24book.html",
+                  "first_chapter_link": "",
+                  "sunday_review_link": "https://www.nytimes.com/2010/10/03/books/review/Boylan-t.html",
+                  "article_chapter_link": ""
+              }
+          ]
+      },
+      {
+          "title": "FALL OF GIANTS",
+          "description": "Five interrelated families are caught in the upheavals of World War I and the Russian Revolution; Book 1 of the Century Trilogy.",
+          "contributor": "by Ken Follett",
+          "author": "Ken Follett",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Signet",
+          "isbns": [
+              {
+                  "isbn10": "0451232577",
+                  "isbn13": "9780451232571"
+              },
+              {
+                  "isbn10": "0451232852",
+                  "isbn13": "9780451232854"
+              }
+          ],
+          "ranks_history": [],
+          "reviews": [
+              {
+                  "book_review_link": "https://www.nytimes.com/2010/09/24/books/24book.html",
+                  "first_chapter_link": "",
+                  "sunday_review_link": "https://www.nytimes.com/2010/10/03/books/review/Boylan-t.html",
+                  "article_chapter_link": ""
+              }
+          ]
+      },
+      {
+          "title": "Lie Down With Lions",
+          "description": null,
+          "contributor": null,
+          "author": "Ken Follett",
+          "contributor_note": null,
+          "price": 0,
+          "age_group": null,
+          "publisher": null,
+          "isbns": [
+              {
+                  "isbn10": "0451210468",
+                  "isbn13": "9780451210463"
+              }
+          ],
+          "ranks_history": [],
+          "reviews": [
+              {
+                  "book_review_link": "",
+                  "first_chapter_link": null,
+                  "sunday_review_link": "https://www.nytimes.com/1986/01/26/books/between-cia-and-kgb-in-afghanistan.html",
+                  "article_chapter_link": null
+              }
+          ]
+      },
+      {
+          "title": "On Wings of Eagles",
+          "description": null,
+          "contributor": null,
+          "author": "Ken Follett",
+          "contributor_note": null,
+          "price": 0,
+          "age_group": null,
+          "publisher": null,
+          "isbns": [
+              {
+                  "isbn10": "0451213092",
+                  "isbn13": "9780451213099"
+              }
+          ],
+          "ranks_history": [],
+          "reviews": [
+              {
+                  "book_review_link": "https://www.nytimes.com/1983/10/09/business/what-s-new-on-the-corporate-book-shelf-an-executive-s-iranian-adventure.html",
+                  "first_chapter_link": null,
+                  "sunday_review_link": "",
+                  "article_chapter_link": null
+              }
+          ]
+      },
+      {
+          "title": "PILLARS OF THE EARTH",
+          "description": "Murder, arson and lust surround the building of a 12th-century cathedral.",
+          "contributor": "by Ken Follett",
+          "author": "Ken Follett",
+          "contributor_note": "",
+          "price": 7.99,
+          "age_group": "",
+          "publisher": "Penguin Group (USA) Incorporated",
+          "isbns": [
+              {
+                  "isbn10": "045123281X",
+                  "isbn13": "9780451232816"
+              },
+              {
+                  "isbn10": "0451166892",
+                  "isbn13": "9780451166890"
+              }
+          ],
+          "ranks_history": [],
+          "reviews": [
+              {
+                  "book_review_link": "",
+                  "first_chapter_link": "",
+                  "sunday_review_link": "",
+                  "article_chapter_link": ""
+              }
+          ]
+      }
+  ]
+}
