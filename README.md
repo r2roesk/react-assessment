@@ -18,7 +18,7 @@ You have 75 minutes to complete this challenge, so even if you have not yet fini
 
 -----------
 
-## Please complete following specs to provide user functionality: 
+## Please complete following *specs* to provide user functionality: 
 
 **1.** When a user clicks the "Get Top 10 Books by Ken Follet" button, a list of novels by author Ken Follett are fetched and displayed in an ordered list below. The JSON containing the data can be found in the repo's public folder, fetch all the data and diplay the book's titles. [x] 
 
