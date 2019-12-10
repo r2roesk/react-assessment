@@ -14,25 +14,25 @@ This repository contains a skeleton react application to add, fetch and display 
 
 You have 75 minutes to complete this challenge, so even if you have not yet finish all of the specs below, you still MUST push all of your work back up to your branch to be reviewed.
 
-#### *DO NOT FORGET TO COMMIT AND PUSH YOUR WORK NO LATER THAN 75 MINUTES AFTER STARTING ASSESSMENT
+##### DO NOT FORGET TO COMMIT AND PUSH YOUR WORK NO LATER THAN 75 MINUTES AFTER STARTING ASSESSMENT
 
 -----------
 
 ## Please complete following specs to provide user functionality: 
 
-#### 1. When a user clicks the "Get Top 10 Books by Ken Follet" button, a list of novels by author Ken Follett are fetched and displayed in an ordered list below. The JSON containing the data can be found in the repo's public folder, fetch all the data and diplay the book's titles. [x] 
+**1.** When a user clicks the "Get Top 10 Books by Ken Follet" button, a list of novels by author Ken Follett are fetched and displayed in an ordered list below. The JSON containing the data can be found in the repo's public folder, fetch all the data and diplay the book's titles. [x] 
 
 ![Screen Shot 2019-12-09 at 4 11 12 PM](https://user-images.githubusercontent.com/33639722/70474081-eefe8000-1a9f-11ea-854c-96f8e536fef4.png)
 
 
-#### 2. The user should also be able to use the text input field to add a custom book to the list. [x] 
+**2.** The user should also be able to use the text input field to add a custom book to the list. [x] 
 
 ![Screen Shot 2019-12-09 at 4 24 58 PM](https://user-images.githubusercontent.com/33639722/70474498-b7dc9e80-1aa0-11ea-9b88-aca3714f15ca.png)
 
 
-#### 3. If a user has already added books to the list, then when they add a new custom book or fetch Ken Follet's bestsellers - the books should always append to the end/bottom of the preexisting list. [x] 
+**3.** If a user has already added books to the list, then when they add a new custom book or fetch Ken Follet's bestsellers - the books should always append to the end/bottom of the preexisting list. [x] 
 
-#### 4. Each item in the list should have the ability to be deleted. BE AWARE that there may be duplicate books, i.e. the same book may be added twice or more to list - if you delete one, the others should remain on the list. [x]
+**4.** Each item in the list should have the ability to be deleted. BE AWARE that there may be duplicate books, i.e. the same book may be added twice or more to list - if you delete one, the others should remain on the list. [x]
 
 
 
