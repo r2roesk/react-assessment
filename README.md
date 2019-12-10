@@ -1,4 +1,4 @@
-## To get started with this challenge: 
+## To get started with this assessment: 
 
 1. Fork this repository and then clone it to your local macchine. help -- https://guides.github.com/activities/forking/
 2. Run "npm install" to install all dependecies
@@ -7,6 +7,10 @@
 Scope out the codebase and check out the application running on port 3000, to get an idea of what you are starting with. 
 
 This repository contains a skeleton react application to add, fetch and display a list of books. 
+
+You have 75 minutes to complete this challenge, so even if you have not yet finish all of the specs below, you still MUST push all of your work back up to your branch to be reviewed.
+
+### DO NOT FORGET TO COMMIT AND PUSH YOUR WORK NO LATER THAN 75 MINUTES AFTER STARTING ASSESSMENT
 
 ## Please complete following specs to provide user functionality: 
 
