@@ -12,7 +12,7 @@ This repository contains a skeleton React application to add, fetch, and display
 
 Scope out the codebase and check out the application running on port 3000, to get an idea of what you are starting with. 
 
-You have 75 minutes to complete this challenge, so even if you have not yet finish all of the specs below, you MUST push all of your work back up to your branch to be reviewed.
+You have 75 minutes to complete this challenge, so even if you have not yet finished all of the specs below, you MUST push all of your work back up to your branch to be reviewed.
 
 ##### DO NOT FORGET TO COMMIT AND PUSH YOUR WORK - NO LATER THAN 75 MINUTES AFTER STARTING ASSESSMENT
 
